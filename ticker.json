@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "text": "To Download Our Latest APK, visit our official website. Stay away from fraud links!",
+    "active": true
+  },
+  {
+    "id": "2",
+    "text": "New channels added! Watch live Cricket, Football & more on SportsTV.",
+    "active": true
+  },
+  {
+    "id": "3",
+    "text": "Maintenance scheduled on Sunday 12AM-2AM. Service may be interrupted.",
+    "active": false
+  }
+]
