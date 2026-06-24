@@ -1,0 +1,8 @@
+[
+  { "id": "all",        "name": "All",        "count": 10, "icon": "trophy",       "family": "FontAwesome" },
+  { "id": "cricket",    "name": "Cricket",    "count": 3,  "icon": "cricket",      "family": "MaterialCommunityIcons" },
+  { "id": "football",   "name": "Football",   "count": 5,  "icon": "soccer",       "family": "MaterialCommunityIcons" },
+  { "id": "boxing",     "name": "Boxing",     "count": 2,  "icon": "boxing-glove", "family": "MaterialCommunityIcons" },
+  { "id": "motorsport", "name": "Motorsport", "count": 1,  "icon": "car",          "family": "FontAwesome" },
+  { "id": "basketball", "name": "Basketball", "count": 1,  "icon": "basketball",   "family": "MaterialCommunityIcons" }
+]
