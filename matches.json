@@ -1,1 +1,63 @@
 
+[
+  {
+    "id": "1",
+    "sport": "Football",
+    "league": "Premier League 25/26 - Round 6",
+    "team1": {
+      "name": "Crystal Palace",
+      "shortName": "CRY",
+      "color": "#1B458F"
+    },
+    "team2": {
+      "name": "Liverpool",
+      "shortName": "LIV",
+      "color": "#C8102E"
+    },
+    "status": "live",
+    "time": null,
+    "date": null,
+    "category": "football",
+    "streamUrl": "https://example.com/stream1.m3u8"
+  },
+  {
+    "id": "2",
+    "sport": "Cricket",
+    "league": "Nepal vs West Indies in UAE, 2025",
+    "team1": {
+      "name": "Nepal",
+      "shortName": "NEP",
+      "color": "#003580"
+    },
+    "team2": {
+      "name": "West Indies",
+      "shortName": "WI",
+      "color": "#7B0041"
+    },
+    "status": "upcoming",
+    "time": "07:30 PM",
+    "date": "27/09/2025",
+    "category": "cricket",
+    "streamUrl": null
+  },
+  {
+    "id": "3",
+    "sport": "Football",
+    "league": "LaLiga 25/26 - Round 7",
+    "team1": {
+      "name": "Getafe",
+      "shortName": "GET",
+      "color": "#004D98"
+    },
+    "team2": {
+      "name": "Levante UD",
+      "shortName": "LEV",
+      "color": "#FF6600"
+    },
+    "status": "recent",
+    "time": "Ended",
+    "date": "24/09/2025",
+    "category": "football",
+    "streamUrl": null
+  }
+]
