@@ -1,0 +1,24 @@
+[
+  {
+    "id": "h1",
+    "title": "Crystal Palace vs Liverpool Highlights",
+    "sport": "Football",
+    "league": "Premier League 25/26 - Round 6",
+    "team1Name": "Crystal Palace",
+    "team2Name": "Liverpool",
+    "date": "25/09/2025",
+    "thumbnailColor": "#C8102E",
+    "videoUrl": "https://example.com/highlight1.mp4"
+  },
+  {
+    "id": "h2",
+    "title": "India vs Pakistan Full Match",
+    "sport": "Cricket",
+    "league": "ICC World Cup 2025",
+    "team1Name": "India",
+    "team2Name": "Pakistan",
+    "date": "24/09/2025",
+    "thumbnailColor": "#FF9933",
+    "videoUrl": "https://example.com/highlight2.mp4"
+  }
+]
