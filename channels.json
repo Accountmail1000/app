@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ch1",
+    "matchId": "1",
+    "name": "Star Sports HD",
+    "language": "English",
+    "quality": "1080p",
+    "streamUrl": "https://example.com/star-sports.m3u8"
+  },
+  {
+    "id": "ch2",
+    "matchId": "1",
+    "name": "Sony Sports",
+    "language": "Hindi",
+    "quality": "720p",
+    "streamUrl": "https://example.com/sony-sports.m3u8"
+  },
+  {
+    "id": "ch3",
+    "matchId": "2",
+    "name": "Willow TV",
+    "language": "English",
+    "quality": "HD",
+    "streamUrl": "https://example.com/willow.m3u8"
+  }
+]
